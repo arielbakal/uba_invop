@@ -1,4 +1,4 @@
-# Intr. a la Investigación Operativa y Optimización 1C2025
+# Intr. a la Investigación Operativa y Optimización 1C/2C 2025
 
 ## ¿Cómo usar el CPLEX interactivo?
 
@@ -26,5 +26,3 @@ Finalmente para usar el CPLEX interactivo se abre el archivo **interactive_cplex
 python interactive_cplex.py
 ```
 El programa pregunta línea por línea el modelo LP para modelarlo en variables que la API de cplex entiende. 
-
-Así se logra una escritura más natural que escribir listas de listas todo el tiempo... y tenemos una herramienta para hallar un óptimo sin ponerse a codear.

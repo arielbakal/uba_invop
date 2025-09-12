@@ -1,4 +1,4 @@
-# Intr. a la Investigación Operativa y Optimización 1C2025
+# Intr. a la Investigación Operativa y Optimización 1C/2C 2025
 
 ## ¿Cómo usar el CPLEX interactivo?
 
